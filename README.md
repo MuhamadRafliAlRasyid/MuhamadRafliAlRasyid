@@ -43,8 +43,6 @@
   <a href="" target="_blank"><img src = "https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width = "40" height = "40"/> </a>
 <!--  Javascript  -->
   <a href="" target="_blank"><img src = "https://github.com/rahuldkjain/github-profile-readme-generator/blob/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/javascript.svg" width = "40" height = "40"/> </a>
-<!--  Html  -->
-  <a href="" target="_blank"><img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width = "40" height = "40"/> </a>
 <!--  PHP  -->
   <a href="" target="_blank"><img src = "https://camo.githubusercontent.com/ee7c2a37b02913fa0c8391d5ac4902336333e57dde7ab47ace2fb2e01ed1682e/68747470733a2f2f7777772e7068702e6e65742f696d616765732f6c6f676f732f6e65772d7068702d6c6f676f2e737667" width = "40" height = "40"/> </a>
   </p>
