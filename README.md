@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhamadRafliAlRasyid&label=Profile%20views&color=0e75b6&style=flat" alt="MuhamadRafliAlRasyid" /> </p>
 
 
-- 🌱 Saya sekarang fokus pada **Backend developer**
+- 🌱 Saya sekarang fokus pada **Backend development**
 
 - 💬 Tanya saya tentang **apapun itu** !
 
