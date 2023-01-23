@@ -1,8 +1,8 @@
 <h1 align="center">Halo 👋, Saya Muhamad Rafli Al Rasyid</h1>
 <p align="center"><img src="https://www.codewars.com/users/MuhamadRafliAlRasyid/badges/large"/><br /><br />
-<h3 align="center">A Backend Development Enthusiast !</h3>
+<h3 align="center">A Backend Developer Enthusiast !</h3>
 <p align="center">
-  In the last 1 years, I have focused on developing my interest and career in backend development field. 
+  In the last 1 years, I have focused on developing my interest and career in backend developer field. 
 </p>
 <!-- icon gif -->
 <p align = "center">
