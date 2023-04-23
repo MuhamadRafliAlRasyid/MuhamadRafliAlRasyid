@@ -31,8 +31,6 @@
 
 <h3 align="left">Tools, Languages, and Frameworks :</h3>
 <p align="center"> 
-  <!--  Jupyter  -->
-  <a href="" target="_blank"><img src = "https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width = "40" height = "40"/> </a>
   <!--  Pycharm  -->
   <a href="" target="_blank"><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv675Bs6TnOZW4b2IcHuWl7_syLMsTK0AIZ7ESnqDEuSuf2Xj9b6bDpnwt3WcbiLluZqw&usqp=CAU" width = "40" height = "40"/> </a>
   <!--  Python  -->
@@ -43,7 +41,12 @@
   <a href="" target="_blank"><img src = "https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width = "40" height = "40"/> </a>
 <!--  Javascript  -->
   <a href="" target="_blank"><img src = "https://github.com/rahuldkjain/github-profile-readme-generator/blob/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/javascript.svg" width = "40" height = "40"/> </a>
-<!--  PHP  -->
+<!--  Postgre  -->
+   <a href="" target="_blank"><img src = "[https://github.com/rahuldkjain/github-profile-readme-generator/blob/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/javascript.svg](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg)" width = "40" height = "40"/> </a>
+  <!--  Spring-Boot  -->
+   <a href="" target="_blank"><img src = "[[https://github.com/rahuldkjain/github-profile-readme-generator/blob/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/javascript.svg](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg](https://camo.githubusercontent.com/7ab6964e09723ec9951ed10436b34c29a325f356649b77ff5c02f64ba53b5752/68747470733a2f2f647a6f6e652e636f6d2f73746f726167652f74656d702f31323433343131382d737072696e672d626f6f742d6c6f676f2e706e67))" width = "40" height = "40"/> </a>
+  <!--  Spring  -->
+   <a href="" target="_blank"><img src = "[[[https://github.com/rahuldkjain/github-profile-readme-generator/blob/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/javascript.svg](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg](https://camo.githubusercontent.com/7ab6964e09723ec9951ed10436b34c29a325f356649b77ff5c02f64ba53b5752/68747470733a2f2f647a6f6e652e636f6d2f73746f726167652f74656d702f31323433343131382d737072696e672d626f6f742d6c6f676f2e706e67))](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbalancasrpn.com.br%2Fspring-boot-mm-65901279&psig=AOvVaw2UeycrnQyhHwJnUmK1UcWF&ust=1682346718341000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjd24ecwP4CFQAAAAAdAAAAABAf)" width = "40" height = "40"/> </a>
   
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=MuhamadRafliAlRasyid&show_icons=true&include_all_commits=true&theme=tokyonight" alt="hossein heydari's GitHub stats" /></p>
