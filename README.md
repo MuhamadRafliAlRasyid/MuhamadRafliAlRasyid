@@ -48,9 +48,9 @@
   <!--  Spring-Boot  -->
    <a href="" target="_blank"><img src = "https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" width = "90" height = "50"/> </a>
      <!--  MYSQL  -->
-   <a href="" target="_blank"><img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width = "115" height = "65"/> </a>
+   <a href="" target="_blank"><img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width = "55" height = "40"/> </a>
       <!--  Git  -->
-   <a href="" target="_blank"><img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width = "120" height = "60"/> </a>
+   <a href="" target="_blank"><img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width = "50" height = "40"/> </a>
 
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=MuhamadRafliAlRasyid&show_icons=true&include_all_commits=true&theme=tokyonight" alt="hossein heydari's GitHub stats" /></p>
